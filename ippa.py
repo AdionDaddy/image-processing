@@ -7,7 +7,7 @@ import io
 
 # Configure page
 st.set_page_config(page_title="Image Processing", layout="wide", page_icon="🎨")
-st.title("Imageg Editor By Dhairya Sharma")
+st.title("Image Editor")
 
 # Custom CSS for modern UI with new color scheme
 st.markdown("""
@@ -434,4 +434,5 @@ else:
         - RGB Histograms
         - Image Statistics
         - Before/After Comparison
+
         """)
